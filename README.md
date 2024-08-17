@@ -74,6 +74,6 @@ For major changes, please open an issue first to discuss what you would like to 
 
 ## Acknowledgments
 
-- Special thanks to @Sniffsneaker for the contributions to the project.
+- Special thanks to @Sniffsneaker for the contribution to the project.
 
 Feel free to contact the project maintainers for any questions or concerns.
