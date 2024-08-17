@@ -1,6 +1,6 @@
 # Firmware Upgradation GUI
 
-This repository contains a remote GUI for firmware upgradation, specifically designed for the Parallax P2X8C4M64P microcontroller. The code is written in the Spin programming language, a custom language developed by Parallax Inc. This project is part of the summer internship 2024.
+This repository contains a remote GUI for firmware upgradation, specifically designed for the Parallax P2X8C4M64P microcontroller. The code is written in the Spin programming language, a custom language developed by Parallax Inc. This project is part of the summer internship 2024 at Optellent Inc.
 
 ## Parallax P2X8C4M64P Microcontroller
 
